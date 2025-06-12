@@ -1,0 +1,7 @@
+{
+  "plugins": {
+    "postgresql": {
+      "enabled": true
+    }
+  }
+}
